@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: hashtag#4A90E2;">
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2;">
  <span style="animation: bounceIn 1.5s;">👋 Welcome to Ala Ben Salem's GitHub</span>
 </h1>
 
@@ -33,25 +33,24 @@
 ## 🛠️ Tech Stack 
 
 ### 🚀 Languages & Frameworks 
-<p align="center" style="animation: slideInLeft 1.5s;">
- <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="90">
- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="90">
- <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" height="90">
- <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="90">
- <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="Symfony" height="90">
- <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" height="90">
+<p align="center">
+  <!-- Animated Tech Stack Icons -->
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 </p>
 
 ### 🗄️ Databases & Cloud 
-<p align="center" style="animation: slideInRight 1.5s;">
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 </p>
 
 ### 🛠 Tools & Platforms 
-<p align="center" style="animation: bounceIn 1.5s;">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">
- <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="90">
- <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" height="90">
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
 </p>
 
 ---
@@ -77,8 +76,11 @@
  </tr>
 </table>
 
-
-
+<!-- Snake Animation -->
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://github.com/Ala-Ben-Salem/Ala-Ben-Salem/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ---
 
