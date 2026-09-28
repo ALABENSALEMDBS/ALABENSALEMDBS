@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.2rem; animation: fadeIn 2s;">
- <strong>Software Engineering Student</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong> 
+ <strong>Software Engineering</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong> 
  <br>
  <em>"Turning innovative ideas into real-world solutions"</em>
 </p>
